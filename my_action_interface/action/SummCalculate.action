@@ -1,0 +1,12 @@
+# Goal
+int16 a
+int16 b
+
+---
+# Result
+bool success
+
+---
+# Feedback
+int16 left_to_result
+
